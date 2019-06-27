@@ -18,4 +18,4 @@ The aim of this project is to investigate the performance of context-free and co
 [Results and interpretations can be found in the write-up.](https://github.com/ataxali/sentence_similarity/blob/master/results_report.pdf). The sources for the pre-trained embeddings used in this analysis are also included in this pdf. 
 
 ### Alternative Link to Jupyter Notebook
-[Code](https://nbviewer.jupyter.org/github/ataxali/sentence_similarity/blob/master/sentence_similarity_code.ipynb)
+[Jupyter notebook with code and comments](https://github.com/ataxali/sentence_similarity/blob/master/sentence_similarity_code.ipynb)

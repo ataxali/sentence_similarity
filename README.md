@@ -15,4 +15,4 @@ The aim of this report is to investigate the performance of context-free and con
 •	Do dimension reduction techniques (like PCA and TSNE) qualitatively capture the similarities between sentences? Do unsupervised clustering methods reveal meaning groups of sentences (section 7 of write-up)?
 
 ### Results and Discussion
-[Results and interpretations can be found in the write-up.](https://github.com/ataxali/sentence_similarity/blob/master/results_report.pdf)
+[Results and interpretations can be found in the write-up.](https://github.com/ataxali/sentence_similarity/blob/master/results_report.pdf). The sources for the pre-trained embeddings used in this analysis are also included in this pdf. 

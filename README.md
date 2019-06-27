@@ -1,8 +1,4 @@
 # Measuring Pairwise Sentence Similarities
-Aman Taxali 
-
-ataxali@umich.edu
-
 
 
 ### Motivation

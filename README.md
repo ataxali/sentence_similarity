@@ -6,13 +6,13 @@ Recent applications of deep learning methods to language modelling tasks have sp
 
 The aim of this report is to investigate the performance of context-free and contextual embeddings in measuring the semantic similarity of sentence pairs. There are four questions we explore:
 
-•	How well can context-free and context-aware embeddings identify relatedness in sentence pairs? (section 4)
+•	How well can context-free and context-aware embeddings identify relatedness in sentence pairs? (section 4 of write-up)
 
-•	How do NLP pre-processing techniques (such as removing stopwords, lemmatization, stemming) effect the performance of context-free and context-aware embeddings? (section 5)
+•	How do NLP pre-processing techniques (such as removing stopwords, lemmatization, stemming) effect the performance of context-free and context-aware embeddings? (section 5 of write-up)
 
-•	Can the performance of context-free models be improved by incorporating information about part-of-speech? (section 6)
+•	Can the performance of context-free models be improved by incorporating information about part-of-speech? (section 6 of write-up)
 
-•	Do dimension reduction techniques (like PCA and TSNE) qualitatively capture the similarities between sentences? Do unsupervised clustering methods reveal meaning groups of sentences (section 7)?
+•	Do dimension reduction techniques (like PCA and TSNE) qualitatively capture the similarities between sentences? Do unsupervised clustering methods reveal meaning groups of sentences (section 7 of write-up)?
 
-### Results
+### Results and Discussion
 [Results and interpretations can be found in the write-up.](https://github.com/ataxali/sentence_similarity/blob/master/results_report.pdf)
